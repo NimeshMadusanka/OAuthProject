@@ -1,4 +1,4 @@
-# ~*OAuthProject*~
+# *OAuthProject*
 # 1. Frist Download OAuthProject github project and wamp server
 # 2. Install wamp server
 # 3. Put OAuthProject into WWW floder in wamp server
